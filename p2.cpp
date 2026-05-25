@@ -1,4 +1,4 @@
-//Problem 2: Calculate Shipping Cost Problem 
+//Problem 2: Calculate Shipping Cost 
 //Description: Calculate the total shipping cost based on weight and distance.
 
 #include<iostream>

@@ -1,4 +1,4 @@
-//Problem 1: Subarrays with Given Sum Problem 
+//Problem 1: Subarrays with Given Sum 
 //Description :Given an array of integer nums and an integer k , 
 //return the total number of subarrays whose sum equals k .
 

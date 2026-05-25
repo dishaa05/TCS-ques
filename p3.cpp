@@ -1,4 +1,4 @@
-//Problem 3: Maximum Subarray Sum Problem 
+//Problem 3: Maximum Subarray Sum  
 //Description: Given an integer array nums ,
 // find the contiguous subarray with the largest sum and return that sum.
 
